@@ -1,0 +1,353 @@
+Totalfloors : 0 
+numberofPersons : 0 
+timeBtnfloor : 2 
+startLoc : 5 
+nofElevator : 2 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+Totalfloors : 5 
+numberofPersons : 4 
+timeBtnfloor : 5 
+startLoc : 5 
+nofElevator : 3 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+4
+3
+5
+1
+The order in which they will be processed :
+1
+3
+4
+5
+elevetor moved  from 5 -----> 1
+time taken by elevator : 20
+elevetor moved  from 1 -----> 3
+time taken by elevator : 10
+elevetor moved  from 3 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 5
+time taken by elevator : 5
+the total time taken to process all the requests is :40
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+3
+2
+2
+5
+The order in which they will be processed :
+2
+2
+3
+5
+elevetor moved  from 5 -----> 5
+time taken by elevator : 0
+elevetor moved  from 5 -----> 3
+time taken by elevator : 10
+elevetor moved  from 3 -----> 2
+time taken by elevator : 5
+the total time taken to process all the requests is :15
+elevator : 3 #####################################
+This is the fast one!
+the order of requests received:
+
+2
+4
+1
+4
+The order in which they will be processed :
+1
+2
+4
+4
+elevetor moved  from 5 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 4
+time taken by elevator : 0
+elevetor moved  from 4 -----> 2
+time taken by elevator : 10
+the total time taken to process all the requests is :15
+Totalfloors : 6 
+numberofPersons : 0 
+timeBtnfloor : 3 
+startLoc : 3 
+nofElevator : 3 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+The order in which they will be processed :
+the total time taken to process all the requests is :0
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+The order in which they will be processed :
+the total time taken to process all the requests is :0
+elevator : 3 #####################################
+This is a bit slower one!
+the order of requests received:!
+The order in which they will be processed :
+the total time taken to process all the requests is :0
+Totalfloors : 0 
+numberofPersons : 5 
+timeBtnfloor : 5 
+startLoc : 5 
+nofElevator : 5 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+elevator : 3 #####################################
+This is a bit slower one!
+the order of requests received:!
+elevator : 4 #####################################
+This is a bit slower one!
+the order of requests received:!
+elevator : 5 #####################################
+This is the fast one!
+the order of requests received:
+
+Totalfloors : 0 
+numberofPersons : 5 
+timeBtnfloor : 5 
+startLoc : 5 
+nofElevator : 5 
+Totalfloors : 3 
+numberofPersons : 0 
+timeBtnfloor : 0 
+startLoc : 4 
+nofElevator : 4 
+Totalfloors : 5 
+numberofPersons : 6 
+timeBtnfloor : 5 
+startLoc : 2 
+nofElevator : 2 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+4
+3
+5
+1
+4
+3
+The order in which they will be processed :
+1
+3
+3
+4
+4
+5
+elevetor moved  from 2 -----> 1
+time taken by elevator : 5
+elevetor moved  from 1 -----> 3
+time taken by elevator : 10
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 4
+time taken by elevator : 0
+elevetor moved  from 4 -----> 5
+time taken by elevator : 5
+the total time taken to process all the requests is :25
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+2
+5
+2
+2
+4
+1
+The order in which they will be processed :
+1
+2
+2
+2
+4
+5
+elevetor moved  from 2 -----> 5
+time taken by elevator : 15
+elevetor moved  from 5 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 2
+time taken by elevator : 10
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+the total time taken to process all the requests is :30
+Totalfloors : 5 
+numberofPersons : 6 
+timeBtnfloor : 2 
+startLoc : 2 
+nofElevator : 2 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+4
+3
+5
+1
+4
+3
+The order in which they will be processed :
+1
+3
+3
+4
+4
+5
+elevetor moved  from 2 -----> 1
+time taken by elevator : 2
+elevetor moved  from 1 -----> 3
+time taken by elevator : 4
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 4
+time taken by elevator : 2
+elevetor moved  from 4 -----> 4
+time taken by elevator : 0
+elevetor moved  from 4 -----> 5
+time taken by elevator : 2
+the total time taken to process all the requests is :10
+elevator : 2 #####################################
+This is the fast one!
+the order of requests received:
+
+2
+5
+2
+2
+4
+1
+The order in which they will be processed :
+1
+2
+2
+2
+4
+5
+elevetor moved  from 2 -----> 5
+time taken by elevator : 6
+elevetor moved  from 5 -----> 4
+time taken by elevator : 2
+elevetor moved  from 4 -----> 2
+time taken by elevator : 4
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+the total time taken to process all the requests is :12
+Totalfloors : 5 
+numberofPersons : 5 
+timeBtnfloor : 5 
+startLoc : 3 
+nofElevator : 4 
+elevator : 1 #####################################
+This is a bit slower one!
+the order of requests received:!
+4
+3
+5
+1
+4
+The order in which they will be processed :
+1
+3
+4
+4
+5
+elevetor moved  from 3 -----> 1
+time taken by elevator : 10
+elevetor moved  from 1 -----> 3
+time taken by elevator : 10
+elevetor moved  from 3 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 4
+time taken by elevator : 0
+elevetor moved  from 4 -----> 5
+time taken by elevator : 5
+the total time taken to process all the requests is :30
+elevator : 2 #####################################
+This is the slowest one!
+the order of requests received:
+2
+2
+5
+2
+2
+elevetor moved  from 3 -----> 2
+time taken by elevator : 5
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+elevetor moved  from 2 -----> 5
+time taken by elevator : 15
+elevetor moved  from 5 -----> 2
+time taken by elevator : 15
+elevetor moved  from 2 -----> 2
+time taken by elevator : 0
+the total time taken to process all the requests is :35
+elevator : 3 #####################################
+This is the fast one!
+the order of requests received:
+
+1
+4
+4
+1
+2
+The order in which they will be processed :
+1
+1
+2
+4
+4
+elevetor moved  from 3 -----> 4
+time taken by elevator : 5
+elevetor moved  from 4 -----> 4
+time taken by elevator : 0
+elevetor moved  from 4 -----> 2
+time taken by elevator : 10
+elevetor moved  from 2 -----> 1
+time taken by elevator : 5
+the total time taken to process all the requests is :20
+elevator : 4 #####################################
+This is a bit slower one!
+the order of requests received:!
+3
+3
+3
+3
+4
+The order in which they will be processed :
+3
+3
+3
+3
+4
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 3
+time taken by elevator : 0
+elevetor moved  from 3 -----> 4
+time taken by elevator : 5
+the total time taken to process all the requests is :5
